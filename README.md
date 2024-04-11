@@ -1,16 +1,6 @@
-# healthchart
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nutriguide is a flutter app that tell you the nutrition value for the healthy foods
+s![LOGO](https://github.com/Vijayashanmuga/Nutriguide/assets/113011990/4240e89c-e5f8-4bb0-b20b-d41732f936ee)
+![image](https://github.com/Vijayashanmuga/Nutriguide/assets/113011990/9d33fc47-2a08-42df-a358-7097b604cb05)
+![image](https://github.com/Vijayashanmuga/Nutriguide/assets/113011990/b7d92e27-6edb-408c-b034-6f54196c5aa6)
+![image](https://github.com/Vijayashanmuga/Nutriguide/assets/113011990/79693b0c-c4f3-46f7-bc5f-0f3c6233c3e4)
+![image](https://github.com/Vijayashanmuga/Nutriguide/assets/113011990/bf222674-cd5b-4796-b50a-66943c232b0c)
